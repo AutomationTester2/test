@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completd]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completd]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completd]]>
+    </line>
+    <line>
+      <![CDATA[clicked on add emp]]>
+    </line>
+    <line>
+      <![CDATA[employee added]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[login completd]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on emp list]]>
+    </line>
+    <line>
+      <![CDATA[employee searched]]>
+    </line>
+    <line>
+      <![CDATA[employee id deleted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="163144" started-at="2021-06-23T15:42:30Z" finished-at="2021-06-23T15:45:13Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="56871" started-at="2021-06-23T15:42:30Z" finished-at="2021-06-23T15:43:27Z">
+      <class name="com.hrms.Testscript.TC_101_VerifyLogin">
+        <test-method status="PASS" signature="tc_101()[pri:0, instance:com.hrms.Testscript.TC_101_VerifyLogin@68ceda24]" name="tc_101" duration-ms="56855" started-at="2021-06-23T21:12:30Z" finished-at="2021-06-23T21:13:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completd]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_101 -->
+      </class> <!-- com.hrms.Testscript.TC_101_VerifyLogin -->
+    </test> <!-- Nopackage -->
+    <test name="Nopackage2" duration-ms="106180" started-at="2021-06-23T15:43:27Z" finished-at="2021-06-23T15:45:13Z">
+      <class name="com.hrms.Testscript.TC_101_VerifyLogin">
+        <test-method status="PASS" signature="tc_101()[pri:0, instance:com.hrms.Testscript.TC_101_VerifyLogin@133e16fd]" name="tc_101" duration-ms="25618" started-at="2021-06-23T21:13:27Z" finished-at="2021-06-23T21:13:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completd]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_101 -->
+      </class> <!-- com.hrms.Testscript.TC_101_VerifyLogin -->
+      <class name="com.hrms.Testscript.TC_102_Add_NewEmp">
+        <test-method status="PASS" signature="tc_102()[pri:0, instance:com.hrms.Testscript.TC_102_Add_NewEmp@5e57643e]" name="tc_102" duration-ms="36940" started-at="2021-06-23T21:13:52Z" finished-at="2021-06-23T21:14:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completd]]>
+            </line>
+            <line>
+              <![CDATA[clicked on add emp]]>
+            </line>
+            <line>
+              <![CDATA[employee added]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_102 -->
+      </class> <!-- com.hrms.Testscript.TC_102_Add_NewEmp -->
+      <class name="com.hrms.Testscript.TC_103_DeleteEmp">
+        <test-method status="PASS" signature="tc_103()[pri:0, instance:com.hrms.Testscript.TC_103_DeleteEmp@51b279c9]" name="tc_103" duration-ms="43620" started-at="2021-06-23T21:14:29Z" finished-at="2021-06-23T21:15:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+            <line>
+              <![CDATA[login completd]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on emp list]]>
+            </line>
+            <line>
+              <![CDATA[employee searched]]>
+            </line>
+            <line>
+              <![CDATA[employee id deleted successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_103 -->
+      </class> <!-- com.hrms.Testscript.TC_103_DeleteEmp -->
+    </test> <!-- Nopackage2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

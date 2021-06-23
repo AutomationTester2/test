@@ -1,0 +1,243 @@
+2021-06-19 11:39:01,709 INFO  [Log] Application opened 
+2021-06-19 11:39:06,504 INFO  [Log] Login completed 
+2021-06-19 11:39:06,847 INFO  [Log] Logout completed 
+2021-06-19 11:39:34,208 INFO  [Log] Application opened 
+2021-06-19 11:39:38,789 INFO  [Log] Login completed 
+2021-06-19 11:39:39,165 INFO  [Log] Logout completed 
+2021-06-19 11:39:55,425 INFO  [Log] Application opened 
+2021-06-19 11:39:59,713 INFO  [Log] Login completed 
+2021-06-19 11:40:02,423 INFO  [Log] clicked on add emp 
+2021-06-19 11:40:09,184 INFO  [Log] employee added 
+2021-06-19 11:40:09,534 INFO  [Log] Logout completed 
+2021-06-19 11:40:24,053 INFO  [Log] Application opened 
+2021-06-19 11:40:28,446 INFO  [Log] Login completed 
+2021-06-19 11:40:31,149 INFO  [Log] Clicked on emp list 
+2021-06-19 11:40:37,982 INFO  [Log] employee searched 
+2021-06-19 11:40:43,805 INFO  [Log] employee id deleted successfully 
+2021-06-19 11:40:46,130 INFO  [Log] Logout completed 
+2021-06-21 22:03:57,795 INFO  [Log] Application opened 
+2021-06-21 22:04:38,628 INFO  [Log] Application opened 
+2021-06-21 22:04:54,150 INFO  [Log] Login completed 
+2021-06-21 22:04:54,373 INFO  [Log] Logout completed 
+2021-06-21 22:05:10,067 INFO  [Log] Application opened 
+2021-06-21 22:05:16,911 INFO  [Log] Login completed 
+2021-06-21 22:05:20,241 INFO  [Log] clicked on add emp 
+2021-06-21 22:05:42,763 INFO  [Log] Application opened 
+2021-06-21 22:06:05,578 INFO  [Log] Login completed 
+2021-06-21 22:06:08,235 INFO  [Log] Clicked on emp list 
+2021-06-21 22:06:15,306 INFO  [Log] employee searched 
+2021-06-21 22:06:21,725 INFO  [Log] employee id deleted successfully 
+2021-06-21 22:06:24,108 INFO  [Log] Logout completed 
+2021-06-21 22:16:14,126 INFO  [Log] Application opened 
+2021-06-21 22:16:29,742 INFO  [Log] Login completed 
+2021-06-21 22:16:30,118 INFO  [Log] Logout completed 
+2021-06-21 22:17:01,220 INFO  [Log] Application opened 
+2021-06-21 22:17:05,780 INFO  [Log] Login completed 
+2021-06-21 22:17:06,013 INFO  [Log] Logout completed 
+2021-06-21 22:17:42,656 INFO  [Log] Application opened 
+2021-06-21 22:17:47,627 INFO  [Log] Login completed 
+2021-06-21 22:17:50,839 INFO  [Log] clicked on add emp 
+2021-06-21 22:18:26,406 INFO  [Log] Application opened 
+2021-06-21 22:19:45,993 INFO  [Log] Login completed 
+2021-06-21 22:19:48,702 INFO  [Log] Clicked on emp list 
+2021-06-21 22:19:57,721 INFO  [Log] employee searched 
+2021-06-21 22:20:04,150 INFO  [Log] employee id deleted successfully 
+2021-06-21 22:20:06,396 INFO  [Log] Logout completed 
+2021-06-21 22:29:34,410 INFO  [Log] Application opened 
+2021-06-21 22:29:40,382 INFO  [Log] Login completed 
+2021-06-21 22:29:40,608 INFO  [Log] Logout completed 
+2021-06-21 22:29:56,599 INFO  [Log] Application opened 
+2021-06-21 22:30:01,129 INFO  [Log] Login completed 
+2021-06-21 22:30:01,539 INFO  [Log] Logout completed 
+2021-06-21 22:30:16,617 INFO  [Log] Application opened 
+2021-06-21 22:30:21,149 INFO  [Log] Login completed 
+2021-06-21 22:30:23,832 INFO  [Log] clicked on add emp 
+2021-06-21 22:30:52,109 INFO  [Log] Application opened 
+2021-06-21 22:30:57,415 INFO  [Log] Login completed 
+2021-06-21 22:31:00,109 INFO  [Log] Clicked on emp list 
+2021-06-21 22:31:07,535 INFO  [Log] employee searched 
+2021-06-21 22:31:13,382 INFO  [Log] employee id deleted successfully 
+2021-06-21 22:31:15,753 INFO  [Log] Logout completed 
+2021-06-21 22:36:49,597 INFO  [Log] Application opened 
+2021-06-21 22:36:55,180 INFO  [Log] Login completed 
+2021-06-21 22:36:55,553 INFO  [Log] Logout completed 
+2021-06-21 22:37:19,140 INFO  [Log] Application opened 
+2021-06-21 22:37:24,002 INFO  [Log] Login completed 
+2021-06-21 22:37:24,345 INFO  [Log] Logout completed 
+2021-06-21 22:37:39,429 INFO  [Log] Application opened 
+2021-06-21 22:37:44,229 INFO  [Log] Login completed 
+2021-06-21 22:37:46,888 INFO  [Log] clicked on add emp 
+2021-06-21 22:37:55,816 INFO  [Log] employee added 
+2021-06-21 22:37:56,151 INFO  [Log] Logout completed 
+2021-06-21 22:38:10,566 INFO  [Log] Application opened 
+2021-06-21 22:38:15,478 INFO  [Log] Login completed 
+2021-06-21 22:38:18,131 INFO  [Log] Clicked on emp list 
+2021-06-21 22:38:24,987 INFO  [Log] employee searched 
+2021-06-21 22:38:30,853 INFO  [Log] employee id deleted successfully 
+2021-06-21 22:38:33,204 INFO  [Log] Logout completed 
+2021-06-21 23:36:19,743 INFO  [Log] Application opened 
+2021-06-21 23:36:31,241 INFO  [Log] Login completed 
+2021-06-21 23:36:31,669 INFO  [Log] Logout completed 
+2021-06-21 23:36:57,292 INFO  [Log] Application opened 
+2021-06-21 23:37:15,209 INFO  [Log] Login completed 
+2021-06-21 23:37:15,627 INFO  [Log] Logout completed 
+2021-06-21 23:37:40,109 INFO  [Log] Application opened 
+2021-06-21 23:37:46,096 INFO  [Log] Login completed 
+2021-06-21 23:37:48,901 INFO  [Log] clicked on add emp 
+2021-06-21 23:37:57,856 INFO  [Log] employee added 
+2021-06-21 23:37:58,258 INFO  [Log] Logout completed 
+2021-06-21 23:38:13,588 INFO  [Log] Application opened 
+2021-06-21 23:38:19,599 INFO  [Log] Login completed 
+2021-06-21 23:38:22,564 INFO  [Log] Clicked on emp list 
+2021-06-21 23:38:29,473 INFO  [Log] employee searched 
+2021-06-21 23:40:04,442 INFO  [Log] Application opened 
+2021-06-21 23:40:10,006 INFO  [Log] Login completed 
+2021-06-21 23:40:10,377 INFO  [Log] Logout completed 
+2021-06-21 23:40:36,294 INFO  [Log] Application opened 
+2021-06-21 23:40:40,999 INFO  [Log] Login completed 
+2021-06-21 23:40:41,533 INFO  [Log] Logout completed 
+2021-06-21 23:41:08,797 INFO  [Log] Application opened 
+2021-06-21 23:41:13,604 INFO  [Log] Login completed 
+2021-06-21 23:41:16,301 INFO  [Log] clicked on add emp 
+2021-06-21 23:41:23,384 INFO  [Log] employee added 
+2021-06-21 23:41:23,734 INFO  [Log] Logout completed 
+2021-06-21 23:41:38,421 INFO  [Log] Application opened 
+2021-06-21 23:41:44,047 INFO  [Log] Login completed 
+2021-06-21 23:41:46,696 INFO  [Log] Clicked on emp list 
+2021-06-21 23:41:53,576 INFO  [Log] employee searched 
+2021-06-21 23:41:59,540 INFO  [Log] employee id deleted successfully 
+2021-06-21 23:42:01,881 INFO  [Log] Logout completed 
+2021-06-21 23:44:04,132 INFO  [Log] Application opened 
+2021-06-21 23:44:10,476 INFO  [Log] Login completed 
+2021-06-21 23:44:11,006 INFO  [Log] Logout completed 
+2021-06-21 23:44:26,070 INFO  [Log] Application opened 
+2021-06-21 23:44:31,697 INFO  [Log] Login completed 
+2021-06-21 23:44:32,064 INFO  [Log] Logout completed 
+2021-06-21 23:44:47,156 INFO  [Log] Application opened 
+2021-06-21 23:44:52,596 INFO  [Log] Login completed 
+2021-06-21 23:44:55,293 INFO  [Log] clicked on add emp 
+2021-06-21 23:45:02,671 INFO  [Log] employee added 
+2021-06-21 23:45:03,094 INFO  [Log] Logout completed 
+2021-06-21 23:45:18,246 INFO  [Log] Application opened 
+2021-06-21 23:45:23,259 INFO  [Log] Login completed 
+2021-06-21 23:45:26,116 INFO  [Log] Clicked on emp list 
+2021-06-21 23:45:33,379 INFO  [Log] employee searched 
+2021-06-21 23:45:39,312 INFO  [Log] employee id deleted successfully 
+2021-06-21 23:45:41,723 INFO  [Log] Logout completed 
+2021-06-22 10:04:55,584 INFO  [Log] Application opened 
+2021-06-22 10:05:04,300 INFO  [Log] Login completed 
+2021-06-22 10:05:04,571 INFO  [Log] Logout completed 
+2021-06-22 10:05:19,893 INFO  [Log] Application opened 
+2021-06-22 10:05:29,104 INFO  [Log] Login completed 
+2021-06-22 10:05:29,409 INFO  [Log] Logout completed 
+2021-06-22 10:05:44,823 INFO  [Log] Application opened 
+2021-06-22 10:05:49,792 INFO  [Log] Login completed 
+2021-06-22 10:05:52,600 INFO  [Log] clicked on add emp 
+2021-06-22 10:06:01,510 INFO  [Log] employee added 
+2021-06-22 10:06:01,865 INFO  [Log] Logout completed 
+2021-06-22 10:06:14,397 INFO  [Log] Application opened 
+2021-06-22 10:06:20,986 INFO  [Log] Login completed 
+2021-06-22 10:06:23,732 INFO  [Log] Clicked on emp list 
+2021-06-22 10:06:30,836 INFO  [Log] employee searched 
+2021-06-22 10:06:36,878 INFO  [Log] employee id deleted successfully 
+2021-06-22 10:06:39,171 INFO  [Log] Logout completed 
+2021-06-22 10:20:56,274 INFO  [Log] Application opened 
+2021-06-22 10:21:01,762 INFO  [Log] Login completed 
+2021-06-22 10:21:02,537 INFO  [Log] Logout completed 
+2021-06-22 10:21:19,315 INFO  [Log] Application opened 
+2021-06-22 10:21:24,936 INFO  [Log] Login completed 
+2021-06-22 10:21:25,309 INFO  [Log] Logout completed 
+2021-06-22 10:21:42,355 INFO  [Log] Application opened 
+2021-06-22 10:21:48,921 INFO  [Log] Login completed 
+2021-06-22 10:21:51,790 INFO  [Log] clicked on add emp 
+2021-06-22 10:21:58,511 INFO  [Log] employee added 
+2021-06-22 10:21:58,805 INFO  [Log] Logout completed 
+2021-06-22 10:22:17,831 INFO  [Log] Application opened 
+2021-06-22 10:22:22,899 INFO  [Log] Login completed 
+2021-06-22 10:22:25,621 INFO  [Log] Clicked on emp list 
+2021-06-22 10:22:32,684 INFO  [Log] employee searched 
+2021-06-22 10:22:38,604 INFO  [Log] employee id deleted successfully 
+2021-06-22 10:22:41,002 INFO  [Log] Logout completed 
+2021-06-22 10:23:40,639 INFO  [Log] Application opened 
+2021-06-22 10:23:45,722 INFO  [Log] Login completed 
+2021-06-22 10:23:46,101 INFO  [Log] Logout completed 
+2021-06-22 10:23:56,872 INFO  [Log] Application opened 
+2021-06-22 10:24:01,737 INFO  [Log] Login completed 
+2021-06-22 10:24:02,053 INFO  [Log] Logout completed 
+2021-06-22 10:24:13,192 INFO  [Log] Application opened 
+2021-06-22 10:24:17,738 INFO  [Log] Login completed 
+2021-06-22 10:24:20,474 INFO  [Log] clicked on add emp 
+2021-06-22 10:24:27,831 INFO  [Log] employee added 
+2021-06-22 10:24:28,126 INFO  [Log] Logout completed 
+2021-06-22 10:24:39,402 INFO  [Log] Application opened 
+2021-06-22 10:24:44,246 INFO  [Log] Login completed 
+2021-06-22 10:24:46,985 INFO  [Log] Clicked on emp list 
+2021-06-22 10:24:53,981 INFO  [Log] employee searched 
+2021-06-22 10:25:00,208 INFO  [Log] employee id deleted successfully 
+2021-06-22 10:25:02,560 INFO  [Log] Logout completed 
+2021-06-23 12:01:46,367 INFO  [Log] Application opened 
+2021-06-23 12:01:56,778 INFO  [Log] Login completed 
+2021-06-23 12:01:57,122 INFO  [Log] Logout completed 
+2021-06-23 12:02:09,915 INFO  [Log] Application opened 
+2021-06-23 12:02:15,327 INFO  [Log] Login completed 
+2021-06-23 12:02:15,697 INFO  [Log] Logout completed 
+2021-06-23 12:02:26,465 INFO  [Log] Application opened 
+2021-06-23 12:02:31,720 INFO  [Log] Login completed 
+2021-06-23 12:02:36,076 INFO  [Log] clicked on add emp 
+2021-06-23 12:02:42,770 INFO  [Log] employee added 
+2021-06-23 12:02:43,125 INFO  [Log] Logout completed 
+2021-06-23 12:02:54,046 INFO  [Log] Application opened 
+2021-06-23 12:02:58,923 INFO  [Log] Login completed 
+2021-06-23 12:03:01,814 INFO  [Log] Clicked on emp list 
+2021-06-23 12:03:09,136 INFO  [Log] employee searched 
+2021-06-23 20:19:34,235 INFO  [Log] Application opened 
+2021-06-23 20:19:41,763 INFO  [Log] Login completed 
+2021-06-23 20:19:42,178 INFO  [Log] Logout completed 
+2021-06-23 20:19:59,580 INFO  [Log] Application opened 
+2021-06-23 20:20:06,362 INFO  [Log] Login completed 
+2021-06-23 20:20:06,724 INFO  [Log] Logout completed 
+2021-06-23 20:20:23,530 INFO  [Log] Application opened 
+2021-06-23 20:20:28,151 INFO  [Log] Login completed 
+2021-06-23 20:20:31,101 INFO  [Log] clicked on add emp 
+2021-06-23 20:20:39,975 INFO  [Log] employee added 
+2021-06-23 20:20:40,328 INFO  [Log] Logout completed 
+2021-06-23 20:20:55,265 INFO  [Log] Application opened 
+2021-06-23 20:21:01,147 INFO  [Log] Login completed 
+2021-06-23 20:21:03,940 INFO  [Log] Clicked on emp list 
+2021-06-23 20:21:11,541 INFO  [Log] employee searched 
+2021-06-23 20:21:17,715 INFO  [Log] employee id deleted successfully 
+2021-06-23 20:21:20,085 INFO  [Log] Logout completed 
+2021-06-23 20:23:14,166 INFO  [Log] Application opened 
+2021-06-23 20:23:18,719 INFO  [Log] Login completed 
+2021-06-23 20:23:19,267 INFO  [Log] Logout completed 
+2021-06-23 20:23:41,328 INFO  [Log] Application opened 
+2021-06-23 20:23:46,297 INFO  [Log] Login completed 
+2021-06-23 20:23:46,692 INFO  [Log] Logout completed 
+2021-06-23 20:24:01,461 INFO  [Log] Application opened 
+2021-06-23 20:24:06,141 INFO  [Log] Login completed 
+2021-06-23 20:24:08,898 INFO  [Log] clicked on add emp 
+2021-06-23 20:24:17,658 INFO  [Log] employee added 
+2021-06-23 20:24:17,987 INFO  [Log] Logout completed 
+2021-06-23 20:24:33,458 INFO  [Log] Application opened 
+2021-06-23 20:24:37,832 INFO  [Log] Login completed 
+2021-06-23 20:24:40,522 INFO  [Log] Clicked on emp list 
+2021-06-23 20:24:47,424 INFO  [Log] employee searched 
+2021-06-23 20:24:53,282 INFO  [Log] employee id deleted successfully 
+2021-06-23 20:24:55,641 INFO  [Log] Logout completed 
+2021-06-23 21:13:09,440 INFO  [Log] Application opened 
+2021-06-23 21:13:21,576 INFO  [Log] Login completed 
+2021-06-23 21:13:22,119 INFO  [Log] Logout completed 
+2021-06-23 21:13:38,463 INFO  [Log] Application opened 
+2021-06-23 21:13:46,788 INFO  [Log] Login completed 
+2021-06-23 21:13:47,302 INFO  [Log] Logout completed 
+2021-06-23 21:14:01,763 INFO  [Log] Application opened 
+2021-06-23 21:14:09,281 INFO  [Log] Login completed 
+2021-06-23 21:14:12,997 INFO  [Log] clicked on add emp 
+2021-06-23 21:14:24,377 INFO  [Log] employee added 
+2021-06-23 21:14:25,219 INFO  [Log] Logout completed 
+2021-06-23 21:14:41,639 INFO  [Log] Application opened 
+2021-06-23 21:14:48,359 INFO  [Log] Login completed 
+2021-06-23 21:14:51,925 INFO  [Log] Clicked on emp list 
+2021-06-23 21:14:59,573 INFO  [Log] employee searched 
+2021-06-23 21:15:05,933 INFO  [Log] employee id deleted successfully 
+2021-06-23 21:15:08,410 INFO  [Log] Logout completed 
